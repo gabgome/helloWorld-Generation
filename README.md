@@ -1,2 +1,2 @@
 # helloWorld-Generation
-Primeira aplicação baseada em conceitos básicos de Spring com Java, realizada no Bootcamp Generation.
+Aplicação introdutória utilizando Java com Spring Boot. Desenvolvida no Bootcamp Generation Brasil.
